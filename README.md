@@ -1,2 +1,2 @@
-# SoundQuest
-SoundQuest - Aluraflix2CGustavoAlves
+# CozySound
+CozySound - Aluraflix2CGustavoAlves
