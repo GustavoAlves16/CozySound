@@ -48,7 +48,7 @@ p {
 
 .categoria-videos img {
     height: 200px;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .categoria-videos img:hover {
@@ -57,5 +57,23 @@ border: 3px solid rgb(170, 74, 194)
 }
 
 .categoria h2{
-    color:whitesmoke
+    color:whitesmoke;
+}
+
+body {
+    margin: 0px;
+    color: whitesmoke;
+    background: rgb(123, 104, 238);
+    font-family: "Pixelify Sans", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(176, 196, 222);
+    padding: 20px;
+    font-size: 32px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
